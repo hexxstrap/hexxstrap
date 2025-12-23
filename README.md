@@ -1,6 +1,5 @@
 <p align="center">
-  <img width="960" height="540" src=https://github.com/hexxstrap/enasSMOKINGhotwife/blob/f8a7e59b788aa9411680c16c95df8ba56516bf4d/4bbdcdef5c26522a71d0c3062951d327.jpg
->
+  <img width="960" height="540" src= ezgif-116b2fa9b894f625.gif
 </p>  
 
        . : ฅ^._.^ฅ - luci / bex  , luci is my perfered ! bex is for will/ruko           
