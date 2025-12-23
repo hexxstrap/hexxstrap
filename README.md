@@ -2,10 +2,10 @@
   <img width="960" height="540" src= ccc678b7afbdbb4191156bc02fb6e831.jpg
 </p>  
 
-       . : ฅ^._.^ฅ - luci / bex  , luci is my perfered ! bex is for will/ruko           
-       . : *ೃ🐌༄ ~ : . she/they prn user! lesbian/demiexual/lithosexual/demigirl   
-       . :ᕙ(  •̀ ᗜ •́  )ᕗ : . 14 yrs old , turning 15 dec 27th                                               
-       . :🫧𓇼𓏲*ੈ✩‧₊˚🎐 - i realllllly like ena [webseries + game] if u couldnt tell alr... 
+       . : ฅ^._.^ฅ - lucie / weebee , lucie pref. i allow nicknames GIVE ME NICKNAMES PLEASEE          
+       . : *ೃ🐌༄ ~ : . she/they prn user! omnisexual , lithosexual , and a demigirl.
+       . :ᕙ(  •̀ ᗜ •́  )ᕗ : . 15 yrs , dec 27th 2010                                              
+       . :🫧𓇼𓏲*ੈ✩‧₊˚🎐 - i love eishia im #1 eishia fan and yume... i share though so dont be scared 
 
 <p align="center">
   <img width="250" height="150" src= ezgif-116b2fa9b894f625.gif
