@@ -6,5 +6,5 @@
        . : (♡´𓋰`♡) - redoing my art coms and ponytown coms site soon, along w my strawpage !
 
 <p align="center">
-  <img width="500" height="300" src= maka-albarn-guitar.gif
+  <img width="1000" height="300" src= maka-albarn-guitar.gif
 </p>
