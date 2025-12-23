@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="960" height="540" src= 
+  <img width="960" height="540" src= ccc678b7afbdbb4191156bc02fb6e831.jpg
 </p>  
 
        . : ฅ^._.^ฅ - luci / bex  , luci is my perfered ! bex is for will/ruko           
