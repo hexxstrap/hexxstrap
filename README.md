@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="960" height="540" src= ccc678b7afbdbb4191156bc02fb6e831.jpg
+  <img width="960" height="540" src= maka-albarn-guitar.gif
 </p>  
 
        . : ฅ^._.^ฅ - lucie / weebee , lucie pref. i allow nicknames GIVE ME NICKNAMES PLEASEE          
