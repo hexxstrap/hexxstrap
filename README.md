@@ -7,5 +7,5 @@
 
 
 <p align="center">
-  <img width="1000" height="300" src= Untitled_design__28___fliter--green-pink-acid__channel--all__mode--color-removebg-preview.png
+  <img width="500" height="500" src= Untitled_design__28___fliter--green-pink-acid__channel--all__mode--color-removebg-preview.png
 </p>
