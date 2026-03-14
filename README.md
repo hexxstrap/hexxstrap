@@ -1,44 +1,44 @@
-<!DOCTYPE html>
-<html>
-<head>
+<p align="center">
+<svg width="600" height="80" viewBox="0 0 600 80" xmlns="http://www.w3.org/2000/svg">
+
 <style>
-body{
-  text-align: center;
-  font-family: Arial, sans-serif;
-  color: #86E0BA; /* regular text color */
-}
+.regular { fill:#86E0BA; font-family:Georgia, serif; font-size:28px; }
+.bold { fill:#83344A; font-weight:bold; font-family:Georgia, serif; font-size:28px; }
 
-span{
-  font-weight: bold;
-  color: #83344A; /* bold word color */
-  opacity: 0;
-  animation: fade 6s infinite;
-}
+.fade { opacity:0; animation:fade 8s infinite; }
 
-span:nth-child(1){ animation-delay:0s; }
-span:nth-child(2){ animation-delay:1.5s; }
-span:nth-child(3){ animation-delay:3s; }
-span:nth-child(4){ animation-delay:4.5s; }
+.l1 { animation-delay:0s; }
+.l2 { animation-delay:2s; }
+.l3 { animation-delay:4s; }
+.l4 { animation-delay:6s; }
 
-@keyframes fade{
-  0%{opacity:0;}
-  20%{opacity:1;}
-  40%{opacity:1;}
-  60%{opacity:0;}
-  100%{opacity:0;}
+@keyframes fade {
+  0% {opacity:0;}
+  10% {opacity:1;}
+  25% {opacity:1;}
+  35% {opacity:0;}
+  100% {opacity:0;}
 }
 </style>
-</head>
 
-<body>
+<text x="50%" y="50%" text-anchor="middle" dominant-baseline="middle" class="fade l1">
+  <tspan class="regular">i </tspan><tspan class="bold">love you</tspan>
+</text>
 
-<p>
-  i <span>love you</span>,  
-  i <span>hate you</span>,  
-  but i <span>need you</span>,  
-  but i <span>adore you</span>.
+<text x="50%" y="50%" text-anchor="middle" dominant-baseline="middle" class="fade l2">
+  <tspan class="regular">i </tspan><tspan class="bold">hate you</tspan>
+</text>
+
+<text x="50%" y="50%" text-anchor="middle" dominant-baseline="middle" class="fade l3">
+  <tspan class="regular">but i </tspan><tspan class="bold">need you</tspan>
+</text>
+
+<text x="50%" y="50%" text-anchor="middle" dominant-baseline="middle" class="fade l4">
+  <tspan class="regular">but i </tspan><tspan class="bold">adore you</tspan>
+</text>
+
+</svg>
 </p>
-
 </body>
 </html>
 <p align="center">
