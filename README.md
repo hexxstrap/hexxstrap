@@ -9,6 +9,5 @@
   <b style="color:#83344A;">adore you</b>
   <span style="color:#86E0BA;">.</span>
 </p>
-<p align="center">
-  <img width="500" src="Untitled_design__28___fliter--green-pink-acid__channel--all__mode--color-removebg-preview.png">
-</p>
+<img src="Untitled design.gif" width="300" style="margin-right: 20px;">
+<img src="Untitled_design__28___fliter--green-pink-acid__channel--all__mode--color-removebg-preview.png" width="300">
