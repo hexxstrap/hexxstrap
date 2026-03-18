@@ -13,5 +13,5 @@
   <span style="color:#86E0BA;">.</span>
 </p>
 <div style="text-align: center; max-width: 650px; margin: 20px auto;">
-  <img src="Untitled design (31).png" width="100%" alt="Centered Image">
+  <img src="Untitled design (34).png" width="100%" alt="Centered Image">
 </div>
