@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://img.shields.io/endpoint?url=https://api.countapi.xyz/hit/kishin.souls/visits&style=for-the-badge&label=Kishin%20Souls%20Taken&color=e9d0d0&labelColor=e1abb8&v=1" />
+  <img src="https://komarev.com/ghpvc/?username=hexxstrap&label=Kishin%20Souls%20Taken&color=e9d0d0&style=flat" />
 </p>
 <p align="center">
   <span style="color:#86E0BA;">i </span>
